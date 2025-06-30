@@ -1,14 +1,7 @@
-// import { useState } from 'react'
-import './App.css'
+import SettingsPage from "./pages/SettingsPage";
 
 function App() {
-
-
-  return (
-    <>
-    
-    </>
-  )
+  return <SettingsPage />;
 }
 
-export default App
+export default App;
